@@ -32,3 +32,6 @@ print(dataframe_3)
 del dataframe_3["B"]
 
 print(dataframe_3)
+
+# .pop() - returns the deleted column
+# del - deletes the column but doesn't return the deleted column
