@@ -2,13 +2,7 @@
 
 import pandas as pd
 
-# dataframe_1 = pd.DataFrame({"A":[1, 2, 3, 4, 5], "B":[6, 7, 8, 9, 10]})
-# print("Original Dataframe")
-# print(dataframe_1)
-
-# dataframe_1["C"] = dataframe_1["B"] - dataframe_1["A"]
-# print("Subtraction")
-# print(dataframe_1[["A", "B", "C"]])
+# w
 
 # dataframe_1["D"] = dataframe_1["B"] + dataframe_1["A"]
 # print("Addition")

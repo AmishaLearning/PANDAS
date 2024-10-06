@@ -2,11 +2,11 @@
 
 import pandas as pd
 
-# list_1 = [1,2,3,4,5]
-# series_1 = pd.Series(list_1)
+list_1 = [1,2,3,4,5]
+series_1 = pd.Series(list_1)
 
-# print(series_1)
-# print(type(series_1))
+print(series_1)
+print(type(series_1))
 
 # print(series_1[4])
 
@@ -55,8 +55,8 @@ import pandas as pd
 # Adding two series
 # If the index is not matching then it will return NaN, but in numpy it will return an Broadcasting error.
 
-series_1 = pd.Series(12, index=[1, 2, 3, 4, 5, 6, 7, 8])
-series_2 = pd.Series(12, index=[1, 2, 3, 4])
+# series_1 = pd.Series(12, index=[1, 2, 3, 4, 5, 6, 7, 8])
+# series_2 = pd.Series(12, index=[1, 2, 3, 4])
 
-print(series_1 + series_2)
+# print(series_1 + series_2)
 

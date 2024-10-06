@@ -1,0 +1,11 @@
+Name,City,Occupation,Age,Experience
+Eve,Los Angeles,Teacher,57,3
+Charlie,,Teacher,,3
+Bob,Houston,Teacher,21,12
+Charlie,Houston,,27,6
+Diana,Los Angeles,Teacher,49,25
+Alice,New York,Teacher,41,5
+Eve,Phoenix,Teacher,26,8
+Diana,Los Angeles,Teacher,55,21
+Eve,Chicago,Doctor,,13
+
